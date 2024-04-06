@@ -38,7 +38,7 @@ app.use(cookieParser())
 
 app.use(cors({
     credentials: true,
-    origin: "https://carboncellui.netlify.app/"
+    origin: "https://carboncellui.netlify.app"
 }))
 
 //Api Routes
