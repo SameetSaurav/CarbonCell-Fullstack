@@ -28,9 +28,9 @@ export const DASHBOARD_SIDEBAR_LINKS = [
 		icon: <PiWallet />
 	},
 	{
-		key: 'assets',
-		label: 'Assets',
-		path: '/assets',
+		key: 'Swagger',
+		label: 'Swagger Documents',
+		path: '/swagger',
 		icon: <HiOutlineCube />
 	},
 	{
